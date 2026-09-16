@@ -8,7 +8,7 @@
   "server": {
     "ip": "konesmp.aternos.me",
     "port": 34958,
-    "version": "26.2",
+    "serverVersion": "26.2",
     "try-creative": false
   },
   "position": {
