@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "konesmp.aternos.me",
+    "port": 34958,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -20,20 +20,20 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "kone!"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe to envcold!",
+        "Subscribe to yksacrificekone!",
+        "Welcome to KoneSmp!"
       ]
     },
     "chat-log": true,
@@ -53,7 +53,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1536800456779501648/JhK2RVd80X1h78ImtAyle7u5d-cx8wf1QiJv0AXSjR0uz8tOFDHYAVPgBArmlPdaI97w",
     "events": {
       "connect": true,
       "disconnect": true,
